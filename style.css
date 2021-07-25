@@ -1,0 +1,43 @@
+body{
+background-color: white;
+width: 800px;
+}
+#title {
+color: black;
+text-transform: uppercase;
+}
+#title {
+font-size: 16px;
+font-style: italic;
+}
+.post{
+    background-color: beige;
+padding: 10px;
+border: 3px solid black;
+}
+.image {
+    max-width: 100%;
+  }
+.perfilprofissional {
+    color: black;
+text-transform: capitalize;
+}
+.COMPETENCIAS {
+    color: black;
+    font-weight: bold;
+}
+.IDIOMAS {
+    color: black;
+    font-weight: bold;
+}
+.EDUCAÇAO {
+color: black;
+font-weight: bold;
+}
+.EXPERIENCIA {
+    color: black;
+    font-weight: bold;
+}
+.rodape{
+    font-weight: bold;
+}
