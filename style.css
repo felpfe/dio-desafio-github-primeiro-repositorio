@@ -1,6 +1,8 @@
 body{
-background-color: white;
-width: 800px;
+background-color: black;
+width: auto;
+
+
 }
 #title {
 color: black;
@@ -13,10 +15,13 @@ font-style: italic;
 .post{
     background-color: beige;
 padding: 10px;
-border: 3px solid black;
+border: 3px  black;
+border-radius: 10px 20px 30px 40px;
+background-color: rgb(124, 39, 124);
 }
 .image {
-    max-width: 100%;
+width: 100%;
+border-radius: 10px 20px 30px 40px;;
   }
 .perfilprofissional {
     color: black;
